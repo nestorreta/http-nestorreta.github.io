@@ -1,18 +1,12 @@
 ---
 layout: default
-modal-id: WPF XAML C# - Survey Prototype
-date: 2014-07-18
-img: 8110.png
-alt: WPF XAML C# - Survey Prototype
+modal-id: 6
+date: 2014-07-15
+img: 8770.png
+alt: image-alt
 project-date: April 2014
-client: We The Curious
-category: Exhibitions Prototype
+client: Start Bootstrap
+category: Web Development
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---
-
-### Video
-
-<video src="videos/8110 Facets of Identity.mp4" width="320" height="200" controls preload></video>
-
-----
