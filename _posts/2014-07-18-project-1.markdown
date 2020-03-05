@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: 8110.png
-alt: WPF XAML C# - Survey Prototype
+alt: WPF
 project-date: April 2014
 client: We The Curious
 category: Exhibitions Prototype
