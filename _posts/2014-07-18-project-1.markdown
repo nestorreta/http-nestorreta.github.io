@@ -1,6 +1,6 @@
 ---
 layout: default2
-modal-id: WPF XAML C# - Survey Prototype
+modal-id: 1
 date: 2014-07-18
 img: 8110.png
 alt: WPF XAML C# - Survey Prototype
